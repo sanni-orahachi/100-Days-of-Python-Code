@@ -35,7 +35,7 @@ check_time = time()
 condition = True
 while condition:
     cookie_button.click()
-    if time() - start_time >= 30:
+    if time() - start_time >= 300:
         condition = False
         while True:
             try:
