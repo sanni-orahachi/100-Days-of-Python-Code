@@ -26,7 +26,7 @@ try:
 except NoSuchElementException:
     print("No cookies pop up.")
 
-sleep(3)
+sleep(2)
 cookie_button = driver.find_element(By.CSS_SELECTOR, value="#bigCookie")
 
 start_time = time()
