@@ -11,7 +11,6 @@ driver = webdriver.Chrome(options=chrome_options)
 driver.get("https://ozh.github.io/cookieclicker/")
 
 sleep(3)
-
 try:
     language = driver.find_element(By.CSS_SELECTOR, value="#langSelect-EN")
     language.click()
