@@ -111,6 +111,8 @@ Progress
 
 ✅ Day 49: Automated Gym Booking System
 
+✅ Day 50: Tindog Swiping Bot
+
 ...  
 🔄 Day 100: Coming soon!  
 
